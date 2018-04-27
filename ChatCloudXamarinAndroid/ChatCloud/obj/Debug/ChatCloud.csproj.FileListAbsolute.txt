@@ -1,0 +1,98 @@
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\bin\Debug\ChatCloud.dll
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\bin\Debug\ChatCloud.pdb
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\bin\Debug\Com.App.ChatCloud.apk
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\bin\Debug\Com.App.ChatCloud-Signed.apk
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\ChatCloud.dll
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\ChatCloud.pdb
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\android\bin\Com.App.ChatCloud.apk
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\layout\chatcloudhome.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\layout\app_bar.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\layout\directchatlayout.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\layout\contactslayout.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\layout\eventslayout.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\layout\inviteyoursfriendslayout.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\layout\settinglayout.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\layout\chatgroupslayout.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\values\strings.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\values\styles.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\values\colors.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\menu\action_menu.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\menu\navmenu.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\icon.png
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_logout.png
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\splash_logo.jpg
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_radiuschat.png
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_invite.png
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_setting.png
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_directchat.png
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_contact.png
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_event.png
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_chatgroups.png
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_search.png
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\list_selector.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\list_item_bg_normal.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\res\drawable\list_item_bg_pressed.xml
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\R.cs.flag
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\uploadflags.txt
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\ChatCloud.csprojResolveAssemblyReference.cache
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\bin\Debug\ChatCloud.dll.mdb
+D:\Xamarin Project\Chat Cloud - Copy\ChatCloud\ChatCloud\obj\Debug\android\assets\ChatCloud.dll.mdb
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\ChatCloud.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\ChatCloud.pdb
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Com.App.ChatCloud.apk
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Com.App.ChatCloud-Signed.apk
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Annotations.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Transition.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\ChatCloud.dll
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\ChatCloud.pdb
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\android\bin\Com.App.ChatCloud.apk
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\layout\app_bar.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\layout\directchatlayout.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\layout\contactslayout.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\layout\eventslayout.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\layout\inviteyoursfriendslayout.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\layout\settinglayout.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\layout\chatgroupslayout.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\layout\mainlayout.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\values\strings.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\values\styles.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\values\colors.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\menu\action_menu.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\menu\navmenu.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\icon.png
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_logout.png
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\splash_logo.jpg
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_radiuschat.png
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_invite.png
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_setting.png
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_directchat.png
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_contact.png
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_event.png
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_chatgroups.png
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\ic_search.png
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\list_selector.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\list_item_bg_normal.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\drawable\list_item_bg_pressed.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\R.cs.flag
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\uploadflags.txt
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\bin\Debug\ChatCloud.dll.mdb
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\android\assets\ChatCloud.dll.mdb
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\ChatCloud.csprojResolveAssemblyReference.cache
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\layout\radiuschatfragment.xml
+D:\Xamarin Project\Chat Cloud\ChatCloud\ChatCloud\obj\Debug\res\layout\headerdrawerlayout.xml

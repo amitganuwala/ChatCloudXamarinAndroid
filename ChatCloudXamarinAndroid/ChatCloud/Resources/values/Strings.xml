@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="app_name">Chat Cloud</string>
+  <string name="sRadiusChat">Radius Chat</string>
+  <string name="sDirectChat">Direct Chat</string>
+  <string name="sChatGroups">Chat Groups</string>
+  <string name="sContacts">Contacts</string>
+  <string name="sEvents">Events</string>
+  <string name="sInvite_Your_Friends">Invite Your Friends</string>
+  <string name="sSetting">Setting</string>
+  <string name="sLogout">Logout</string>
+  <string name="strBottomLine"></string>
+  <string name="open_drawer">Open drawer</string>
+  <string name="close_drawer">Close drawer</string>
+</resources>

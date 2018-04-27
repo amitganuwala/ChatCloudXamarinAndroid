@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Com.App.ChatCloud" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:allowBackup="true" android:theme="@style/MyTheme" android:label="ChatCloud" android:icon="@drawable/icon" android:name="android.app.Application" android:debuggable="true">
+    <activity android:label="MainActivity" android:name="md5f72905d68ffbb59e54169284cc2787b2.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Com.App.ChatCloud.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Com.App.ChatCloud" />
+      </intent-filter>
+    </receiver>
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+  </application>
+</manifest>

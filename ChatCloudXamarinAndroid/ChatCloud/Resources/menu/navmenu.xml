@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <group android:checkableBehavior="single">
+    <item
+       android:id="@+id/menu_radiusChat"
+       android:icon="@drawable/ic_RadiusChat"
+       android:title="@string/sRadiusChat"/>
+    <item
+         android:id="@+id/menu_directChat"
+         android:icon="@drawable/ic_DirectChat"
+         android:title="@string/sDirectChat"/>
+    <item
+         android:id="@+id/menu_chatGroups"
+         android:icon="@drawable/ic_ChatGroups"
+         android:title="@string/sChatGroups"/>
+    <item
+         android:id="@+id/menu_Contacts"
+         android:icon="@drawable/ic_Contact"
+         android:title="@string/sContacts"/>
+    <item
+       android:id="@+id/menu_events"
+       android:icon="@drawable/ic_Event"
+       android:title="@string/sEvents"/>
+    <item
+         android:id="@+id/menu_invite"
+         android:icon="@drawable/ic_invite"
+         android:title="@string/sInvite_Your_Friends"/>
+    <item
+         android:id="@+id/menu_setting"
+         android:icon="@drawable/ic_Setting"
+        android:title="@string/sSetting"/>
+    <item
+       android:id="@+id/menu_logOut"
+       android:icon="@drawable/ic_LogOut"
+       android:title="@string/sLogout"/>
+  </group>
+</menu>
